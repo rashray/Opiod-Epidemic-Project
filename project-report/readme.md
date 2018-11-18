@@ -11,6 +11,9 @@ Figure 3 shows that from 2010 to 2016, 160,962 deaths were identified as White (
 
 
 ## From Rashmi
+- Opoid related deaths for fenty&Tramadol has changed dramatically over the last few years from causing lowest fatalities to highest. I twould be interesting to investgate why
+- Demographic visualization quite clearly depicts more whites involved than the rest combined and iys is growing at a much higher rate while the other and more or less stable. What could be the root cause? Accessibility, depression or habit.
+- 
 ## From Rene
 ## From Viren
 Combating the Opioid Abuse epidemic
